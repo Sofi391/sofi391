@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Python</b>
-  - [Password generator application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Password generator application](https://github.com/Sofi391/project/blob/main/README.md)
 
 <h2>📺 Certifications</h2>
 Software engineering 3rd year student at AASTU<br/>
