@@ -1,4 +1,4 @@
-# Hi, I'm Sofi 👋
+# Hi, I'm Sofoniyas 👋
 **Software Engineering Student | Backend Web Developer**
 
 ## 👨‍💻 Software Development Projects
