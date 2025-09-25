@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Software Development Projects
 - **Python**
-  - [Movie Rating Web App](https://github.com/your-username/day-64-top10-movies) – Flask web app with API integration and dynamic top 10 ranking
+  - [Movie Rating Web App](https://github.com/Sofi391/Top-10-movies) – Flask web app with API integration and dynamic top 10 ranking
 
 ## 📜 Certifications
 - Software Engineering 3rd year student at AASTU  
