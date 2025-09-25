@@ -1,23 +1,28 @@
-<h1>Hi, I'm sofoniyas! <br/>Software engineer</a>, Backend web developer</a>
+# Hi, I'm Sofi 👋
+**Software Engineering Student | Backend Web Developer**
 
-<h2>👨‍💻 Software Development Projects:</h2>
-- <b>Python</b>
-  - [Password generator application](https://github.com/Sofi391/project/blob/main/README.md)
+## 👨‍💻 Software Development Projects
+- **Python**
+  - [Movie Rating Web App](https://github.com/your-username/day-64-top10-movies) – Flask web app with API integration and dynamic top 10 ranking
 
-<h2>📺 Certifications</h2>
-Software engineering 3rd year student at AASTU<br/>
-ALX foundations certified<br/>
-ALX backend development student
+## 📜 Certifications
+- Software Engineering 3rd year student at AASTU  
+- ALX Foundations certified  
+- ALX Backend Development student
 
-<h2> 🤳 Connect with me:</h2>
+## ⚡ Skills
+- Python, Flask, Django (learning), React (learning)  
+- APIs, Bootstrap, Git  
+- Full-stack development concepts
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 📊 GitHub Stats
+![Sofi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofi391&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofi391&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofi391&theme=radical)
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/so.me.fi?igsh=MW1hNWZhd2lnb2lyeA==
-[linkedin]: https://linkedin.com/in/sofoniyas-alebachew-bb876b33b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## 🤳 Connect with me
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 
+[linkedin]: https://linkedin.com/in/sofoniyas-alebachew-bb876b33b  
+[github]: https://github.com/sofi391
