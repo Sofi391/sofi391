@@ -21,7 +21,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofi391&theme=radical)
 
 ## 🤳 Connect with me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 
 [linkedin]: https://linkedin.com/in/sofoniyas-alebachew-bb876b33b
