@@ -12,7 +12,7 @@
 - ALX Backend Development student
 
 ## ⚡ Skills
-- Python, Flask, Django (learning), React (learning)  
+- Python, Flask, Django, React (learning)  
 - APIs, Bootstrap, Git  
 - Full-stack development concepts
 
