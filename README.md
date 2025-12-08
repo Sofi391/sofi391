@@ -5,7 +5,7 @@
 - **Python**
   - 🎬 [Movie Rating Web App](https://github.com/Sofi391/Top-10-movies) – Flask web app with API integration and dynamic top 10 ranking
   - ☕🌐 [Coffee & WiFi REST API](https://github.com/Sofi391/First-Rest-API-project) – Flask REST API with CRUD functionality, fully documented in Postman
-
+  - 🍿 [Movie Hub](https://github.com/sofi391/Movie-Hub-django) – Django web app for discovering, tracking, and rating movies & TV shows with user watchlists and admin/moderator controls
 ## 📜 Certifications
 - Software Engineering 3rd year student at AASTU  
 - ALX Foundations certified  
