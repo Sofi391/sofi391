@@ -102,7 +102,7 @@ REST APIs, JWT Auth, Celery, Swagger/OpenAPI
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sofoniyas-alebachew-bb876b33b">
+  <a href="https://linkedin.com/in/sofoniyas-alebachew">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
