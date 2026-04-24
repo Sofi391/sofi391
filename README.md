@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sofoniyas (Sofi)
 
-🚀 **Backend Developer | Software Engineering Student @ AASTU**
+🚀 **Backend Developer | Software Engineering Student @ AASTU | ALX Backend Program Graduate**
 
 I build **secure, scalable, and production-ready backend systems** using Django, Flask, and modern backend technologies.  
 Focused on **real-world business logic, API design, and system reliability**.
