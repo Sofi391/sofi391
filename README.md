@@ -101,8 +101,15 @@ REST APIs, JWT Auth, Celery, Swagger/OpenAPI
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/sofoniyas-alebachew-bb876b33b  
-- 💻 GitHub: https://github.com/Sofi391  
+<p align="center">
+  <a href="https://linkedin.com/in/sofoniyas-alebachew-bb876b33b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sofi391">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
